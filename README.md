@@ -6,7 +6,9 @@ Predicting University Rankings Using Data Analytics
 This project applies data analytics and predictive modeling to examine university rankings published by U.S. News & World Report. Using historical data spanning 2003-2012, I conducted an in-depth analysis to determine the key factors influencing rankings and developed a multiple linear regression model to predict future rankings based on crucial metrics.
 
 🔹 Tools Used: R, Tableau, Excel
+
 🔹 Skills Demonstrated: Data Cleaning, Statistical Analysis, Regression Modeling, Data Visualization
+
 🔹 Instructor & Course: Dr. Vivek Singh, Data Analytics for Information Professionals (17:610:561:90) at Rutgers University
 
 🎯 Project Objective
