@@ -65,6 +65,7 @@ I conducted Pearson’s correlation analysis and built a multiple linear regress
 🔹 Northeastern Schools → Tend to Rank Higher 🏆
 
 📌 Correlation Analysis Output:
+
 ![Screenshot 2025-03-20 at 3 23 16 AM](https://github.com/user-attachments/assets/bce334a9-983f-42d7-8205-48080afe38a6)
 
 
@@ -72,6 +73,7 @@ I conducted Pearson’s correlation analysis and built a multiple linear regress
 Using multiple linear regression, the model achieved an R-squared value of 0.5913, meaning it explains ~59% of the variation in university rankings.
 
 📌 Regression Model Output:
+
 ![Screenshot 2025-03-20 at 3 23 36 AM](https://github.com/user-attachments/assets/f5334baa-cd8a-457f-a895-b8843ec18ef9)
 
 
