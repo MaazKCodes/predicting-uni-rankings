@@ -57,8 +57,11 @@ I conducted Pearson’s correlation analysis and built a multiple linear regress
 
 
 🔹 Higher Acceptance Rates → Lower Rankings 📉
+
 🔹 Higher Graduation Rates → Higher Rankings 📈
+
 🔹 More Top 10% Freshmen → Higher Rankings ⭐
+
 🔹 Northeastern Schools → Tend to Rank Higher 🏆
 
 📌 Correlation Analysis Output:
@@ -79,9 +82,13 @@ To enhance insights, I created interactive visualizations in Tableau, including 
 🔹 Key Visualizations:
 
 ✔ Motion Chart: Evolution of Acceptance Rate vs. Rank Over Time
+
 ✔ Scatter Plots: Graduation Rate vs. Rank, Acceptance Rate vs. Rank
+
 ✔ Bar Charts: Top 10 Universities – Acceptance vs. Graduation Rate
+
 ✔ Treemap: Impact of Large Class Sizes on Rankings
+
 ✔ Time-Series Line Chart: Trends in Acceptance & Graduation Rates Over Time
 
 📌 Interactive Dashboard Example:
