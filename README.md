@@ -92,10 +92,12 @@ To enhance insights, I created interactive visualizations in Tableau, including 
 ✔ Time-Series Line Chart: Trends in Acceptance & Graduation Rates Over Time
 
 📌 Interactive Dashboard Example:
+
 ![Screenshot 2025-03-20 at 3 06 37 AM](https://github.com/user-attachments/assets/12da1846-3727-41a5-b4e2-7eeeaa275735)
 
 
 📌 Motion Chart (GIF):
+
 ![AvgAcceptanceAvgRank](https://github.com/user-attachments/assets/6d0570d9-68f4-499c-be78-16c0212abb75)
 
 
